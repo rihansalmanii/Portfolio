@@ -6,3 +6,8 @@
     font-family: font1;
     src: url(./assets/fonts/anekdevnagri.ttf);
 }
+
+@font-face {
+    font-family: font2;
+    src: url(./assets/fonts/GlitchFont.ttf);
+}
